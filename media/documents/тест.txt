@@ -1,0 +1,7 @@
+The quick brown fox jumps over the lazy dog. This is a simple sentence to test your TF-IDF analyzer.
+Python Django web development is fun and exciting! Django is a high-level Python web framework.
+The fox is quick and the dog is lazy. Repeat: the quick brown fox jumps over the lazy dog.
+This text contains some repetitions to test term frequency (TF) and inverse document frequency (IDF).
+Web development with Django includes models, views, templates, and URLs.
+Python is a popular programming language. Django is built with Python.
+Testing your analyzer is important. This is a test. Test test test!
